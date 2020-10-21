@@ -1,0 +1,112 @@
+*{
+    background-color: #99ffbb;
+    
+}
+.A{
+    padding-left:30px ;
+    padding-right:30px ;
+    padding-top:10px ;
+    padding-bottom:10px ;
+    border-radius: 10px;
+    border: none;
+    color:aqua;
+    font-weight: bold;
+    background-color:black;
+}
+.B{
+    color: purple;
+    font-style: italic;
+    position: absolute;
+    top:0.5%;
+    left:25%;
+    font-weight: bold;
+}
+.AA{
+    color: black;
+}
+.Z{
+    color: black;
+    font-weight: bold;
+    position: absolute;
+    top:20%;
+    left:45%;
+    
+    
+}
+.C{
+    position: absolute;
+    top:0.2%;
+    left:79%;
+    color: black;
+}
+.F{
+    color: black;
+    font-weight: bold;
+    position: absolute;
+    top:10%;
+    left:45%;
+}
+.D{
+    position: absolute;
+    top:2%;
+    left:88%;
+    padding-left:10px ;
+    padding-right:10px ;
+    padding-top:10px ;
+    padding-bottom:10px ;
+    border-radius: 10px;
+    background-color:black;
+    color: turquoise;
+    border: none;
+    font-weight: bold;
+}
+.E{
+    position: absolute;
+    top:2%;
+    left:95%;
+    padding-left:10px ;
+    padding-right:10px ;
+    padding-top:10px ;
+    padding-bottom:10px ;
+    border-radius: 10px;
+    background-color:black;
+    color: turquoise;
+    border: none;
+    font-weight: bold;
+}
+.G{
+    color:#003366;
+    font-weight: bold;
+    position: absolute;
+    top:15%;
+    left:45%;
+    
+}
+.H{
+    padding-left:10px ;
+    padding-right:10px ;
+    padding-top:10px ;
+    padding-bottom:10px ;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    color:aquamarine;
+    background-color: black;
+    position: absolute;
+    top:30%;
+    left:45%;
+}
+.Y{
+    padding-left:10px ;
+    padding-right:10px ;
+    padding-top:10px ;
+    padding-bottom:10px ;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    color:aquamarine;
+    background-color: black;
+    position: absolute;
+    top:30%;
+    left:55%;
+}
